@@ -1,0 +1,4 @@
+tatoeba_complete.tr-en filter=lfs diff=lfs merge=lfs -text
+tatoeba_complete.tr-en.aligned filter=lfs diff=lfs merge=lfs -text
+tatoeba_complete.tr-en.aligned.probs filter=lfs diff=lfs merge=lfs -text
+tatoeba_complete.tr-en.aligned.words filter=lfs diff=lfs merge=lfs -text
